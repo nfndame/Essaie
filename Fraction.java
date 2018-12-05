@@ -1,4 +1,4 @@
-//bonjour
+//bonjour salam
 public class Fraction {
  
 	private int a, b;
